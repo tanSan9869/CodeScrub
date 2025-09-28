@@ -1,4 +1,4 @@
-# 🧹 CodeScrub
+#  CodeScrub
 
 > *Clean code, made simple.*  
 Ever felt you copied code from ChatGPT and were too lazy to remove every comment?  
