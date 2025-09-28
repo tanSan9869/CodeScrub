@@ -1,8 +1,8 @@
-# 🧹 CodeSanitizer
+# 🧹 CodeScrub
 
 > *Clean code, made simple.*  
 Ever felt you copied code from ChatGPT and were too lazy to remove every comment?  
-**CodeSanitizer** is your VS Code savior! It zaps debug code like `console.log`, `print`, and comments — with **smart Git integration** to keep your commits clean. 🚀
+**CodeScrub** is your VS Code savior! It zaps debug code like `console.log`, `print`, and comments — with **smart Git integration** to keep your commits clean. 🚀
 
 ---
 
